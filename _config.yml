@@ -3,7 +3,7 @@ repository: sammylie83/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2 
+version: 2
 
 # Personal info
 name: Lie Samsudin Skom
@@ -15,14 +15,14 @@ website: https://sammylie83.github.io/modern-resume-theme/
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+twitter_username: facespics
 github_username:  sammylie83
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: sammylie83
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: project
-        link: https://github.com/sammylie83
+        link: github.com/sammylie83
         # link_text: Project Website
         additional_links:
           - title:  sammylie83/modern-resume-theme
@@ -66,7 +66,7 @@ content:
             url: github.com/sammylie83/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project (eg. sammylie83.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -76,36 +76,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Sahabat Mikro Fintek Company
+        title: PT Sahabar Mikro Fintek
         link: https://www.samir.co.id/
         # link_text: boringcompany.com
-        sub_title: Senior Backend Developer (PHP/Java/Spring Boot)
-        caption: Feb 2007 - Present
+        sub_title: Senior Backend Developer
+        caption: Mei 2023 - Present
         quote: >
-            Solving bug code problems dashboard website by java web base programming and framework codeigniter php.
+          Design, develop and maintain the server-side-logic and database of the company's web applications
         description: | # this will include new lines to allow paragraphs
-            Every company needs its programming properly administered and  every company my experience work is no exception.
-
+             Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Indonusa Esa Unggul University
-        caption: 2002 - 2007
-        sub_title: Teknik Informatika
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-          Esa Unggul University (UEU) was founded in 1993 under the auspices of the Kemala Bangsa Education Foundation and is a leading private university and is one of the best private universities in Indonesia.
-           description: | # this will include new lines to allow paragraphs
-         During my time at several companies, I learned most of the key skills I have learned throughout my career, such as teamwork and working to tight deadlines. I really enjoyed my time at university and learned a lot about a healthy work-life balance.
-  
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Swiming
-      - Gaming 
-      - Singing
-     
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
@@ -115,7 +116,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sammylie83/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
