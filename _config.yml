@@ -128,7 +128,7 @@ content:
            * Handle Framework Java GRAILS for Reporting
            * Develop Anymore Project API with JSON
 
-         - layout: left
+        - layout: left
            title: PT Trikomsel Oke TBK
            link: https://www.trikomseloke.com/
            # link_text: boringcompany.com
