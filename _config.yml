@@ -98,8 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Esa Unggul University (UEU) is a leading private university and is one of the best private universities in Indonesia which has a VISION, namely to become a world class university based on intellect, creativity and entrepreneurship that excels in mutual management (process) and results (output) of activities Tri Dharma of Higher Education. And has a MISSION: Providing quality and relevant education, Creating a conducive academic atmosphere, Creating leaders with high character and competitiveness.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+         
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -109,8 +108,7 @@ content:
       - Singing
       
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
