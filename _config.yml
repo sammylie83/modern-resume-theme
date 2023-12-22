@@ -112,13 +112,13 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
 
-      - layout: left
-        title: PT Smart Technologi ( Indosmart Group)
-        link: https://www.indosmart.co.id/
-        # link_text: boringcompany.com
-        sub_title: Senior IT Backend Developer Java
-        caption: Nov 2015 - Nov 2020
-        quote: >
+       - layout: left
+         title: PT Smart Technologi ( Indosmart Group)
+         link: https://www.indosmart.co.id/
+         # link_text: boringcompany.com
+         sub_title: Senior IT Backend Developer Java
+         caption: Nov 2015 - Nov 2020
+         quote: >
            * Maintenance aplikasi java web base grails framework
            * H2H project java with json and xmlrpc such as payment, token, and topup
            * Handle VB 6 aplikasi Front End User
