@@ -111,7 +111,7 @@ content:
            * Add and create java, jsp, servlet and ejb code according to user requests (change requests)
         # description: | # this will include new lines to allow paragraphs
         #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
-
+ 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
