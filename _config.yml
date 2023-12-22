@@ -99,7 +99,7 @@ content:
         title: PT Asuransi Sinar Mas TBK
         link: https://www.sinarmas.co.id/
         # link_text: boringcompany.com
-        sub_title: Senior IT Backend Developer
+        sub_title: Senior IT Backend Developer / Backend Java Spring Boot
         caption: Nov 2020 - April 2023
         quote: >
            * Manage the operational eclaim system for java applications, and monitor databases, servers so that the system runs properly
@@ -127,6 +127,17 @@ content:
            * Handle Bug Error Application Payment Topup
            * Handle Framework Java GRAILS for Reporting
            * Develop Anymore Project API with JSON
+
+         - layout: left
+           title: PT Trikomsel Oke TBK
+           link: https://www.trikomseloke.com/
+           # link_text: boringcompany.com
+           sub_title: IT Backend Developer Java
+           caption: Feb 2011 - Feb 2015
+           quote: >
+             * Maintenance Web base php pemograman (framework Codeigniter)
+             * Maintenance aplikasi vb barcode handphone
+             * Maintenance Web base java (Servlet, JSP, EJB)
            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
