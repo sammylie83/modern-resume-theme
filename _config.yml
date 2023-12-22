@@ -2,7 +2,7 @@
 repository: sammylie83/resume-theme
 favicon: images/favicon.ico
 
-# Content configuration version 
+# Content configuration version
 version: 2
 
 # Personal info
@@ -15,7 +15,7 @@ website: https://sammylie83.github.io/modern-resume-theme/
 darkmode: false
 
 # Social links
-# twitter_username: sammylie83
+#twitter_username: facespics
 github_username:  sammylie83
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -25,15 +25,15 @@ github_username:  sammylie83
 linkedin_username: sammylie83
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+#- title: itsgoingto.be
+# icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,40 +50,42 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lie Samsudin, my nickname sammylie and I'm a Senior Backend Developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Java Web Base(JSP, Servlet, EJB, CSS, Javascript)</mark> and <mark>Framework CodeIgniter</mark> and <mark>Framework Spring Boot</mark>
+  I am most skilled in: <mark>Java Web Base(JSP, Servlet, EJB, CSS, Javascript)</mark> and <mark>Framework Grails</mark> and <mark>Framework CodeIgniter</mark> and <mark>Framework Spring Boot</mark>and <mark>Database Oracle, MYSQL, Postgree SQL, SQL Lite</mark>
 
 content:
-  - title: My Projects # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: project
+        title: Super awesome project
         link: github.com/sammylie83
         # link_text: Project Website
         additional_links:
           - title:  sammylie83/modern-resume-theme
             icon: fab fa-github
             url: github.com/sammylie83/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - title:  Github page for project (eg. sammylie83/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sammylie83.github.io/modern-resume-theme)
         quote: >
-          Project Payment Gateway PDAM, PLN, Topup Pulsa, Topup Paket Data, Token Game, Tiket Kereta Api, Sound distro, BatamFast 
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>Java</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio.
-  - title: My Experience # Title for the section
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: PT Sahabat Mikro Fintek
-        link: https://www.samir.co.id/
+        link: https://www.samir.co.id
         # link_text: boringcompany.com
-        sub_title: Senior Backend Developer
-        caption: Mei 2023 - Present
+        sub_title: Senior IT Backend Developer
+        caption: November 2017 - Present
         quote: >
-          Design, develop and maintain the server-side-logic and database of the company's web applications
+           Design, develop and maintain the server-side-logic and database of the company's web applications
         description: | # this will include new lines to allow paragraphs
-             Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception.
+           Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -92,18 +94,20 @@ content:
         caption: 2002 - 2007
         sub_title: Teknik Informatika
         quote: >
-         Esa Unggul University (UEU) was founded in 1993 under the auspices of the Kemala Bangsa Education Foundation and is a leading private university and is one of the best private universities in Indonesia.
-                 description: | # this will include new lines to allow paragraphs
-          During my time at several companies, I learned most of the key skills I have learned throughout my career, such as teamwork and working to tight deadlines. I really enjoyed my time at university and learned a lot about a healthy work-life balance.
-         
+           Esa Unggul University (UEU) was founded in 1993 under the auspices of the Kemala Bangsa Education Foundation and is a leading private university and is one of the best private universities in Indonesia.
+        description: | # this will include new lines to allow paragraphs
+          Esa Unggul University (UEU) is a leading private university and is one of the best private universities in Indonesia which has a VISION, namely to become a world class university based on intellect, creativity and entrepreneurship that excels in mutual management (process) and results (output) of activities Tri Dharma of Higher Education. And has a MISSION: Providing quality and relevant education, Creating a conducive academic atmosphere, Creating leaders with high character and competitiveness.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Swiming
       - Gaming 
       - Singing
+      
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
