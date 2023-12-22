@@ -75,69 +75,69 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-            - layout: left
-              title: PT Sahabat Mikro Fintek
-              link: https://www.samir.co.id
-              # link_text: boringcompany.com
-              sub_title: Senior IT Backend Developer
-              caption: Mei 2023 - Present
-              quote: >
-                 * Design, develop and maintain the server-side-logic and database of the company's web applications
-                 * Write and optimize complex SQL queries for database operations
-                 * Collaborate with front-end developers to integrate their work with the backend
-                 * Troubleshoot and debug production issues
-                 * Ensure high performance and responsiveness of the applications
-                 * Manage the interchange of data between the server and the users
-                 * Build reusable code and libraries for future use
-                 * Implement security and data protection measures
-                 * Stay up-to-date with emerging trends and technologies in backend development
-                 
-              # description: | # this will include new lines to allow paragraphs
-              #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
+      - layout: left
+        title: PT Sahabat Mikro Fintek
+        link: https://www.samir.co.id
+        # link_text: boringcompany.com
+        sub_title: Senior IT Backend Developer
+        caption: Mei 2023 - Present
+        quote: >
+           * Design, develop and maintain the server-side-logic and database of the company's web applications
+           * Write and optimize complex SQL queries for database operations
+           * Collaborate with front-end developers to integrate their work with the backend
+           * Troubleshoot and debug production issues
+           * Ensure high performance and responsiveness of the applications
+           * Manage the interchange of data between the server and the users
+           * Build reusable code and libraries for future use
+           * Implement security and data protection measures
+           * Stay up-to-date with emerging trends and technologies in backend development
+           
+            # description: | # this will include new lines to allow paragraphs
+            #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
       
-            - layout: left
-              title: PT Asuransi Sinar Mas TBK
-              link: https://www.sinarmas.co.id/
-              # link_text: boringcompany.com
-              sub_title: Senior IT Backend Developer / Backend Java Spring Boot
-              caption: Nov 2020 - April 2023
-              quote: >
-                 * Manage the operational eclaim system for java applications, and monitor databases, servers so that the system runs properly
-                 * Manage Medicare Reconsile
-                 * Manage applications for sending email and uploading cards
-                 * Create views, functions and procedures for Oracle SQL to quickly manage
-                 * Java application errors and repair data so users can use the application
-                 * Creating Oracle plsql procedures related to operational jobs
-                 * Add and create java, jsp, servlet and ejb code according to user requests (change requests)
-              # description: | # this will include new lines to allow paragraphs
-              #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
+      - layout: left
+        title: PT Asuransi Sinar Mas TBK
+        link: https://www.sinarmas.co.id/
+        # link_text: boringcompany.com
+        sub_title: Senior IT Backend Developer / Backend Java Spring Boot
+        caption: Nov 2020 - April 2023
+        quote: >
+           * Manage the operational eclaim system for java applications, and monitor databases, servers so that the system runs properly
+           * Manage Medicare Reconsile
+           * Manage applications for sending email and uploading cards
+           * Create views, functions and procedures for Oracle SQL to quickly manage
+           * Java application errors and repair data so users can use the application
+           * Creating Oracle plsql procedures related to operational jobs
+           * Add and create java, jsp, servlet and ejb code according to user requests (change requests)
+        # description: | # this will include new lines to allow paragraphs
+        #    Every company needs its programming properly administered and The Sahabat Mikro Fintek Compay is no exception. I enjoy driving the company to try new technologies.
 
-             - layout: left
-               title: PT Smart Technologi ( Indosmart Group)
-               link: https://www.indosmart.co.id/
-               # link_text: boringcompany.com
-               sub_title: Senior IT Backend Developer Java
-               caption: Nov 2015 - Nov 2020
-               quote: >
-                 * Maintenance aplikasi java web base grails framework
-                 * H2H project java with json and xmlrpc such as payment, token, and topup
-                 * Handle VB 6 aplikasi Front End User
-                 * Develop Project ISO8385 Such As Payment
-                 * Handle project Soap for Topup
-                 * Handle Bug Error Application Payment Topup
-                 * Handle Framework Java GRAILS for Reporting
-                 * Develop Anymore Project API with JSON
-  
-             - layout: left
-               title: PT Trikomsel Oke TBK
-               link: https://www.trikomseloke.com/
-               # link_text: boringcompany.com 
-               sub_title: IT Backend Developer Java
-               caption: Feb 2011 - Feb 2015
-               quote: >
-                 * Maintenance Web base php pemograman (framework Codeigniter)
-                 * Maintenance aplikasi vb barcode handphone
-                 * Maintenance Web base java (Servlet, JSP, EJB)
+       - layout: left
+         title: PT Smart Technologi ( Indosmart Group)
+         link: https://www.indosmart.co.id/
+         # link_text: boringcompany.com
+         sub_title: Senior IT Backend Developer Java
+         caption: Nov 2015 - Nov 2020
+         quote: >
+           * Maintenance aplikasi java web base grails framework
+           * H2H project java with json and xmlrpc such as payment, token, and topup
+           * Handle VB 6 aplikasi Front End User
+           * Develop Project ISO8385 Such As Payment
+           * Handle project Soap for Topup
+           * Handle Bug Error Application Payment Topup
+           * Handle Framework Java GRAILS for Reporting
+           * Develop Anymore Project API with JSON
+
+       - layout: left
+         title: PT Trikomsel Oke TBK
+         link: https://www.trikomseloke.com/
+         # link_text: boringcompany.com 
+         sub_title: IT Backend Developer Java
+         caption: Feb 2011 - Feb 2015
+         quote: >
+           * Maintenance Web base php pemograman (framework Codeigniter)
+           * Maintenance aplikasi vb barcode handphone
+           * Maintenance Web base java (Servlet, JSP, EJB)
            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
